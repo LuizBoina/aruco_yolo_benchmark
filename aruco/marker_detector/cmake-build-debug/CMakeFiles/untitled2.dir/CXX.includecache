@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luizboina/CLionProjects/untitled2/main.cpp
+opencv2/aruco.hpp
+-
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+iostream
+-
+aruco/cameraparameters.h
+-
+

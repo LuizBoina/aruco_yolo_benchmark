@@ -1,0 +1,10 @@
+%YAML:1.0
+MarkerSize: 5
+MaxCorrectionBits: 6
+ByteList: !!opencv-matrix
+   rows: 2
+   cols: 4
+   dt: "4u"
+   data: [ 180, 77, 234, 0, 69, 174, 45, 1, 43, 217, 22, 1, 218, 58, 209,
+       0, 128, 23, 119, 1, 57, 198, 89, 0, 247, 116, 0, 1, 77, 49, 206,
+       0 ]
